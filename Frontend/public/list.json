@@ -1,0 +1,77 @@
+
+[
+    
+        {
+            "id": 1,
+            "name": "Drama",
+            "title": " To Kill a Mockingbird",
+            "price": 0,
+            "category": "free",
+            "image": "/1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Comdey Book",
+            "title": " George Orwell ",
+            "price": 0,
+            "category": "paid",
+            "image": "/2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "History Book",
+            "title": "A Brief History of Humankind ",
+            "price": 50,
+            "category": "paid",
+            "image": "/3.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Drama Book",
+            "title": "The Alchemist ",
+            "price": 0,
+            "category": "paid",
+            "image": "/4.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Story Book",
+            "title": "Pride and Prejudice ",
+            "price": 0,
+            "category": "free",
+            "image": "/5.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Aerospace Book",
+            "title": "Atomic Habits  ",
+            "price": 0,
+            "category": "free",
+            "image": "/6.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Book",
+            "title": "The Catcher in the Rye ",
+            "price": 0,
+            "category": "free",
+            "image": "/7.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Sport Book",
+            "title": "Thinking, Fast and Slow ",
+            "price": 0,
+            "category": "free",
+            "image": "/8.jpg"
+        },
+        {
+            "id": 9,
+            "name": "story Book",
+            "title": " The Hobbit ",
+            "price": 0,
+            "category": "paid",
+            "image": ".8.jpg"
+        }
+    
+]
